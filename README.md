@@ -28,4 +28,4 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 To run this portfolio locally:
 
 ## 🔗 Link to  MY Portfolio   
-[**Click Here**](https://ayushkumar290.github.io/Portfollio/about.html) to visit my portfolio.
+[**Click Here**](https://ayushkumar290.github.io/Portfollio/) to visit my portfolio.
