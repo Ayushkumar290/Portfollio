@@ -1,0 +1,58 @@
+/* Import home.css into about.css */
+@import url('home.css');
+
+
+h1{ 
+    display: flex;
+    font-family: 'Roboto mono', monospace;
+    justify-content: center;
+}
+.aboutDiscription{ 
+    text-align: center;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    border:#f5f5f5;
+    margin-top: 20px;
+    
+
+}
+.Container{
+    width: 80%;
+    margin: 0 auto;
+    text-align: justify;
+    height: 300px;
+   
+}
+#education{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+}
+.interests-section{
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    font-size: x-large;
+}
+.goal-section{
+    text-align: left;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto mono', monospace;
+    font-size: x-large;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);
+}
+.goal-contant{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto mono', monospace;
+    font-size: x-large;
+}
+
+footer{
+    position: sticky;
+}
