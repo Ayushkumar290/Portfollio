@@ -29,4 +29,4 @@ To run this portfolio locally:
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/your-portfolio.git
+   [git clone https://github.com/your-username/your-portfolio.git](https://ayushkumar290.github.io/Portfollio/about.html)
