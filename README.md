@@ -27,6 +27,5 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 
 To run this portfolio locally:
 
-1. Clone the repository:  
-   ```bash
-   [git clone https://github.com/your-username/your-portfolio.git](https://ayushkumar290.github.io/Portfollio/about.html)
+## 🔗 Link to  MY Portfolio   
+[**Click Here**](https://ayushkumar290.github.io/Portfollio/about.html) to visit my portfolio.
