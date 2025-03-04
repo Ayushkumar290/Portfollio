@@ -1,5 +1,5 @@
 /* Import home.css into about.css */
-@import url('home.css');
+@import url('Home.css');
 
 .contact-section {
     padding: 50px 20px;
